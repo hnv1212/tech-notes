@@ -33,7 +33,7 @@ In RESTful APIs, there are various HTTP methods to interact with different syste
 - **PATCH**: The PATCH method also updates the data in the server, but rather than replacing the whole resource, it partially updates the existing resource.
 - **DELETE**: The DELETE method is used to remove the resource from the server.
 
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
 ### 4. What are some real-world examples of RESTful APIs?
 
