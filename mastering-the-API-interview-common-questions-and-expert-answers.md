@@ -1,6 +1,6 @@
 # Mastering the API Interview: Common Questions and Expert Answers
 
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 Application Programming Interface (APIs) are the backbone of modern software development, enabling different systems to communicate and share data seamlessly. For example, API can be used to share data between client and server. It can also be used to get or send data to third-party applications's databases.
 
